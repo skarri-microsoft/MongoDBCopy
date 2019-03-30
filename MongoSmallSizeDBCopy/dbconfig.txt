@@ -1,0 +1,3 @@
+﻿sourcedb,sourcecoll,destinationdb,destinationcoll,rus,partitionkey,batchsize,insertRetries,failedDocsPath
+test1,coll2,test4,coll4,1000,test,3,10,failed-test4-coll4.csv
+test1,coll2,test5,coll5,1000,test,3,10,failed-test5-coll5.csv
