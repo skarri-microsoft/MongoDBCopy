@@ -14,4 +14,4 @@ Note:  Header must be present and order of columns can not be changed.
 * provision-resources - specify true if you want to create resources through code.
 * migrate-data - specify true if you want to migrate data from each source collection to destination collection.
 
-Important: This is not a scale solution which works for tiny collections and copy process is sequential.
+Important: This is not a scalable solution, which works only for tiny collections and copy process is sequential and slow.
